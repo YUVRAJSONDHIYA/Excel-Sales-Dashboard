@@ -28,6 +28,47 @@ These slicers make it easy to perform focused analysis for any given time period
 ---
 
 ## 📊 Dashboard Components
+⭐ 📌 Key Metrics (KPI Cards)
+
+The top section of the dashboard features five key performance indicators (KPIs) that summarize overall business performance:
+
+1️⃣ Total Sales – 2,296,920
+
+Represents the total revenue generated from all product categories across all years.
+This metric gives a complete view of the company’s revenue size.
+
+2️⃣ Total Quantity Sold – 37,871 Units
+
+Shows the total number of product units sold during the selected period.
+It helps understand product movement and sales volume.
+
+3️⃣ Total Profit – 286,410
+
+Displays the absolute profit earned after subtracting costs.
+A strong indicator of the company’s financial health.
+
+4️⃣ Total Margin (Profit %) – 12.47%
+
+Calculated as:
+Profit % = (Total Profit / Total Sales) × 100
+This metric reflects the overall profitability efficiency, showing how much profit is generated per dollar of sales.
+
+5️⃣ Average Profit per Transaction – $28.7
+
+Calculated using the average of all profit entries.
+This shows how much profit is earned on average for each transaction/record, offering insights into operational performance at the micro level.
+
+📌 How This Helps Decision-Making
+
+These KPIs provide a quick snapshot that helps stakeholders:
+
+Understand revenue and profitability levels
+
+Track sales volume and customer demand
+
+Compare profit efficiency over time
+
+Identify operational strengths and weaknesses
 
 ### 1️⃣ Sales by Category
 - **Type:** Funnel Chart  
