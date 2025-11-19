@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard – Excel Project
+# 📊Superstore Sales Dashboard – Excel Project
 
 ## 🧩 Project Overview
 This Excel-based **Sales Dashboard** provides a complete view of company sales performance across product categories, years, and regions.  
